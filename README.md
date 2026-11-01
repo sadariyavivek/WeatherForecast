@@ -14,7 +14,7 @@ Each activity receives a score from **0–100**, a short explanation, and a conf
 
 ## 2. Technologies
 
-- **Platform:** iOS 18.2+, iPhone
+- **Platform:** iOS 18.2+, iPhone, Xcode Version 16.2
 - **Language:** Swift (Swift 5 mode; also builds in Swift 6 mode with strict concurrency)
 - **UI:** SwiftUI with `@Observable` view models
 - **Concurrency:** async/await and actors
